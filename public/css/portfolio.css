@@ -39,7 +39,9 @@ h4{
 .owl-theme .item{
   background: #fff;
   /*padding: 30px 0px;*/
-  margin: 10px;
+  margin: 20px;
+  width: 600px;
+  height: auto;
   color: #FFF;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -48,10 +50,12 @@ h4{
 }
 .owl-theme .item img{
     vertical-align: center;
-    width: auto;
-    height: 250px;
+    width: 640px;
+    height: auto;
 }
-
+.owl-theme .item p{
+	text-align: center;
+}
 .customNavigation{
   text-align: center;
 }
@@ -85,13 +89,21 @@ h4{
 }
 
 #Container{
-	padding-bottom: 20px;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	margin-left: 30px;
 }
 .mix{
-	height: 200px;
-	width: 200px;
-	margin: 10px;
+	height: auto;
+	width: 300px;
+	margin: 5px;
 	display: inline-block;
+	padding-top: 10px;
+}
+
+.mix img{
+	height: auto;
+	width: 300px;
 }
 .awesome li{
 	text-decoration: none;
@@ -126,6 +138,24 @@ h4{
 footer{
 	background-color: #303a40;
 	color: #fff;
+}
+
+#architect img{
+	width: auto;
+	height: 200px;
+}
+
+.carousel-caption{
+	color: #303a40;
+	position: inherit;
+	margin: 0;
+	padding-bottom: 0;
+	padding-top: 10px;
+	text-shadow: none;
+}
+
+.carousel-caption h3{
+	margin: 0;
 }
 
 
