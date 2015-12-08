@@ -162,4 +162,11 @@ footer{
 	margin: 0;
 }
 
+#family1{
+	background: url(mg/Rachel Greene 6635_BW.jpg);
+}
+#family1 img:hover{
+	width: 200px;
+	background: url(img/family1.jpg);
+}
 
