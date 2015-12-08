@@ -21,8 +21,9 @@ h4{
 	padding: 0;
 }
 
-.prjct-btns{
-	vertical-align: right;
+.prjct-btn{
+	float: right;
+	margin-right: -1em;
 }
 
 .prjct-sum{
@@ -32,6 +33,9 @@ h4{
 .prjct-sum ul{
 	font-size: 15px;
 
+}
+.about-me{
+	margin-bottom: 5px;
 }
 .owl-theme{
 	margin-bottom: 20px;
