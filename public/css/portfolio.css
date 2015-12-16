@@ -138,6 +138,7 @@ h4{
 #aboutme{
 	background-color: #303a40;
 	color: #fff;
+	padding-bottom: 30px;
 }
 footer{
 	background-color: #303a40;
@@ -162,11 +163,30 @@ footer{
 	margin: 0;
 }
 
-#family1{
+.prjct-tools p{
+	margin-bottom: 20px;
+}
+
+ .prjct-h3{
+ 	font-family: 'Futura',Helvetica,Arial,sans-serif;
+    font-size: 24px;
+    letter-spacing: 1px;
+
+ }
+ .prjct-h4{
+ 	font-family: 'Futura',Helvetica,Arial,sans-serif;
+    font-size: 24px;
+    letter-spacing: 1px;
+ 	margin: 0;
+	color:#627682;
+
+ }
+
+/*#family1{
 	background: url(mg/Rachel Greene 6635_BW.jpg);
 }
 #family1 img:hover{
 	width: 200px;
 	background: url(img/family1.jpg);
-}
+}*/
 
