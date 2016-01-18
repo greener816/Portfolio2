@@ -6,10 +6,15 @@
     background-position:-2px -2px, -2px -2px, -1px -1px, -1px -1px;
 }
 
+h3{
+	padding-top: 5px;
+}
+
 h4{
 	margin: 0;
 	color:#627682;
 }
+
 .prjct-title{
 	padding: 0;
 	margin-top: 0;
@@ -167,17 +172,8 @@ footer{
 	margin-bottom: 20px;
 }
 
- .prjct-h3{
- 	font-family: 'Futura',Helvetica,Arial,sans-serif;
-    font-size: 24px;
-    letter-spacing: 1px;
 
- }
- .prjct-h4{
- 	font-family: 'Futura',Helvetica,Arial,sans-serif;
-    font-size: 24px;
-    letter-spacing: 1px;
- 	margin: 0;
+ .prjct-h3-grey{
 	color:#627682;
 
  }
